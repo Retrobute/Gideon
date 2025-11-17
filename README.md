@@ -24,7 +24,7 @@ relevant news for you! Soon, it will offer even more features.
 **2. Clone & Configure**
 - Clone the project
  ```
- git clone https://github.com/10xComrade/Gideon.git
+ git clone https://github.com/Retrobute/Gideon.git
  ```
 - Change directory:
  ```
